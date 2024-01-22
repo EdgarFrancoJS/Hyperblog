@@ -1,7 +1,9 @@
-Esta es la historia de Edgar Franco 
+-Esta es la historia de Edgar Franco 
 
 Edgar Franco tiene 26 años y nacio en la CDMX
 
 Mañana nos enfocaremos en su vida laboral. 
 
 Este es un cambio en la historia para recordar el flujo de trabajo.
+
+Este igual es un cambio pero desde git
