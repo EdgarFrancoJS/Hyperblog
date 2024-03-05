@@ -7,3 +7,5 @@ Mañana nos enfocaremos en su vida laboral.
 Este es un cambio en la historia para recordar el flujo de trabajo.
 
 Este igual es un cambio pero desde git
+
+Pa ver si me acuerdo
